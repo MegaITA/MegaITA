@@ -7,8 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=MegaITA">
 </p>
 
----
-
 <h1 align="center">🛠 My tech stack</h1>
 
 <p align="center">
@@ -36,8 +34,6 @@
     <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
 </p>
 
----
-
 <h1 align="center">🙋🏻‍♂️ Get in touch with me</h1>
 <p align="center">
     <a href="https://t.me/Mega_01">
@@ -50,8 +46,6 @@
         <img alt="Outlook" src="https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
 </p>
-
----
 
 <h1 align="center">📊 Some crazy stats</h1>
 
