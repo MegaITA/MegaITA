@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Alessandro </h1>
 
-<p align="center">🙋🏻‍♂️ I'm a FullStack Web Developer interested in building unique and exciting web apps.
+<p align="center">🙋🏻‍♂️ I'm a Computer Science student at the University of Pisa. Currently working from time to time on personal projects regarding web development and game modding.
 </p>
 
 <p align="center">
